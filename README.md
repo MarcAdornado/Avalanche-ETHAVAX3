@@ -1,6 +1,6 @@
 **Description**
 
-TMyToken is an ERC-20 token built with Solidity that allows minting, burning, and transferring tokens. It has 3 decimal places and gives the owner control to mint new tokens. Users can burn their tokens or transfer them to others. The initial supply is 100 tokens.
+MyToken is an ERC-20 token built with Solidity that allows minting, burning, and transferring tokens. It has 3 decimal places and gives the owner control to mint new tokens. Users can burn their tokens or transfer them to others. The initial supply is 100 tokens.
 
 **FEATURES**
 
